@@ -1,1 +1,1 @@
-# Hat-trick-2D
+# Simple 3D - platformer
